@@ -1,19 +1,19 @@
-﻿{   
+{   
     propertyEditors: [      
         {
             alias: "TextareaPlus",
             name: "Textarea+",
 			isParameterEditor: true,
-			hideLabel: false,
             editor: {
+				hideLabel: false,
                 view: "~/App_Plugins/TextareaPlus/TextareaPlus.html",
-				valueType: "JSON"
+				valueType: "TEXT"
             },
 			prevalues: {
 				fields: [
 					{
 						label: "Textarea Width",
-						description: "Textarea's width in pixels",
+						description: "Textarea's width in percentage<br/>e.g. 67-100 (Style will use 66.6% minimum regardless of what is set)",
 						key: "tcols",
 						view: "number"
 					},
