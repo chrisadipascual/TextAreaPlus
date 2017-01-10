@@ -4,6 +4,6 @@
             $scope.model.config.trows = 5;
         }
         if ($scope.model.config.tcols === null || $scope.model.config.tcols === "") {
-            $scope.model.config.tcols = 500;
+            $scope.model.config.tcols = 66.6;
         }
 });
