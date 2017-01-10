@@ -1,3 +1,17 @@
-﻿<div ng-controller="TextareaPlus.controller" ng-model="model.value">
-    <textarea ng-model="model.value" rows="{{model.config.trows}}" style="width:{{model.config.tcols}}px;"></textarea>
+<style>
+    .taplus 
+    {
+        width: 100%;
+        float: left;
+        height: auto;
+    }
+</style>
+
+<div ng-controller="TextareaPlus.controller" ng-model="model.value" style="width:{{model.config.tcols}}%;min-width: 66.6%;">
+    <textarea ng-model="model.value"
+              id="textareaplus"
+              maxlength="{{model.config.limit}}"
+              rows="{{model.config.trows}}"
+              class="taplus">
+    </textarea>
 </div>
