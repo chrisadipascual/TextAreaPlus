@@ -1,5 +1,9 @@
 # TextAreaPlus
-Extended Textarea for Umbraco 7.X, currently Umbraco's default textbox multiple is limited.
 
+Simple textbox with customizable width (in percentage) and rows.
+Maybe you have a project that requires multiple textareas, and the client wishes
+x rows each.
+Nuget :
+Install-Package TextAreaPlus
 
-Future Idea(s) : Character Limit
+No copyright infringement intended , if this package violates any law , please reach me at : chrisadi.pascual (gmail) to take anything offline (or if you have any feedback or suggestions).
