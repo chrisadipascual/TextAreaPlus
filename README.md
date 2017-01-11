@@ -7,3 +7,6 @@ Nuget :
 Install-Package TextAreaPlus
 
 No copyright infringement intended , if this package violates any law , please reach me at : chrisadi.pascual (gmail) to take anything offline (or if you have any feedback or suggestions).
+
+# Like the plugin? Buy me noodles?
+paypal.me/chrispascual
