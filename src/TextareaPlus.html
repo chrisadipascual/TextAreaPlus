@@ -1,11 +1,20 @@
-<style>
-    .taplus 
-    {
+﻿<style>
+    .taplus {
         width: 100%;
         float: left;
         height: auto;
     }
 </style>
+
+<script>
+    //Check for auto grow height setting , All credits to Jack Moore http://www.jacklmoore.com/autosize/
+    var autog = $('[ng-controller="TextareaPlus.controller"]').scope().model.config.autog;
+    if (autog) {
+        $(document).ready(function() {
+            autosize($("#textareaplus"));
+        });
+    }
+</script>
 
 <div ng-controller="TextareaPlus.controller" ng-model="model.value" style="width:{{model.config.tcols}}%;min-width: 66.6%;">
     <textarea ng-model="model.value"

@@ -1,4 +1,4 @@
-{   
+﻿{   
     propertyEditors: [      
         {
             alias: "TextareaPlus",
@@ -22,7 +22,13 @@
 						description: "Number of rows the textarea will have.",
 						key: "trows",
 						view: "number"
-					}
+					},
+					{
+						label: "Textarea Height Auto-Grows",
+						description: "Height automatically grows as user inputs more content.",
+						key: "autog",
+						view: "boolean"
+					},
 				]
 			}
         }
@@ -30,5 +36,6 @@
     ,
     javascript: [
         '~/App_Plugins/TextareaPlus/TextareaPlus.controller.js',
+		'~/App_Plugins/TextareaPlus/autosize.min.js',
     ]
 }
