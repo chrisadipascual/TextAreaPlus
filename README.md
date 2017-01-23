@@ -15,6 +15,9 @@ No copyright infringement intended , if this package violates any law , please r
 [Any amount is appreciated.](https://paypal.me/chrispascual/)
 Money goes to noodle funds <3 
 
+Engrish is not my first language - you are not required to donate stuff, this is only for those
+who have excess of resources
+
 [A String of Noodle (Any noodle is good noodle)](https://paypal.me/chrispascual/1)
 
 
