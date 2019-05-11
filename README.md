@@ -8,7 +8,9 @@ The built in textarea now has maximum characters allowed and number of rows, it 
 Thanks for all the kind messages from all platforms. Thank you so much for all the donations. It keeps me going!
 
 ### Nuget :
+```
 Install-Package TextAreaPlus
+```
 
 No copyright infringement intended , if this package violates any law , please reach me at : chrisadi.pascual (gmail) to take anything offline (or if you have any feedback or suggestions).
 
