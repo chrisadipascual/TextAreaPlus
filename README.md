@@ -17,7 +17,7 @@ No copyright infringement intended , if this package violates any law , please r
 
 ### Like the plugin?
 
-Engrish is not my first language - you are not required to donate stuff, this is only for those
+Engrish is not my first language - you are not required to donate stuff, this is for those
 who can afford to help. Your kind messages also boosts my morale!
 
 [Any amount is appreciated.](https://paypal.me/chrispascual/)
