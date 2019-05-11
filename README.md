@@ -1,3 +1,6 @@
+# This Project is now deprecated with the release of umbraco 8. 
+The built in textarea now has maximum characters allowed and number of rows, it is much better and comes in built in for ease.
+
 # TextAreaPlus
 Simple textbox with customizable width (in percentage) and rows.
 Maybe you have a project that requires multiple textareas, and the client wishes
